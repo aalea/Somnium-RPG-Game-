@@ -1,0 +1,10 @@
+Note
+---------------------------
+W-all
+O-pen space
+P-rotagonist
+E-nemy
+M-essage (sheet of paper)
+L-ocked door
+
+Grid: 59x11
